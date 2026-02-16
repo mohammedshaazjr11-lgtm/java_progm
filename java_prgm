@@ -1,0 +1,11 @@
+class sum
+          {
+            public static void main(String args[])
+              {
+                System.out.println(String args[])
+                int a= s.nextint();
+                int b=s.nextint();
+                sum=a+b;
+                System.out.println("total"+sum);
+               }
+          }
